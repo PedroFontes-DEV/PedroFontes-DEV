@@ -1,5 +1,6 @@
 ## Hey, welcome to my github profile!
 
+- 👾 My name is Pedro! I´m brazilian. My github profile is in english because recently I´m training my english!
 - 👽 Currently I´m not working...
 - 👻 I´m currently learning JavaScript and improving HTML and CSS...
 
