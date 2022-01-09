@@ -5,10 +5,9 @@
 - 👻 I´m currently learning Cybersecurity...
 
 <div style="display: inline block;"> 
-    <img width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /> 
-    <img width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> 
-    <img width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> 
-    <img width="50" height="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+    <img width="60" height="60" align="center" src="https://cdn-icons-png.flaticon.com/512/2092/2092663.png" /> 
+    <img width="60" height="60" align="center" src="https://cdn-icons.flaticon.com/png/512/556/premium/556261.png?token=exp=1641771588~hmac=356a771a07ff1d77ae3d8c7a1527e707" /> 
+    <img width="60" height="60" align="center" src="https://cdn-icons-png.flaticon.com/512/843/843331.png" /> 
 </div>
 
 ##
