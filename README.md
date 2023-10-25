@@ -1,12 +1,8 @@
-## Hey, welcome to my github profile!
+## Welcome to my github profile!
 
 - 👾 My name is Pedro! I´m brazilian.
 - 👽 Currently I´m working at Infacape...
 - 👻 I'm passionate about Cybersecurity and Network Infrastructure...
-
-<div style="display: inline block;"> 
-    <img width="60" height="60" align="center" src="https://cdn-icons-png.flaticon.com/512/2092/2092663.png" /> 
-</div>
 
 ##
 
