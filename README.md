@@ -1,6 +1,6 @@
 ## Welcome to my github profile!
 
-no system is 100% secure
+👽 no system is 100% secure
 
 ##
 
