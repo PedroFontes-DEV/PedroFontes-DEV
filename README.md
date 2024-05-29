@@ -1,9 +1,5 @@
 ## Welcome to my github profile!
 
-- 👾 My name is Pedro! I´m brazilian.
-- 👽 Currently I´m working at Infacape...
-- 👻 I'm passionate about Cybersecurity and Network Infrastructure...
-
 ##
 
 <div>
